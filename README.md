@@ -1,6 +1,6 @@
 # The CFPB Design Manual
 
-https://cfpb.github.io/design-manual/
+https://redhat-developer.github.io/design-manual-proto/
 
 This is the repository for CFPB's Design Manual for developing print and web
 products. It contains both the assets and the content for the site.
